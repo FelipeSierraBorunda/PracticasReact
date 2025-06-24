@@ -1,4 +1,4 @@
-import {heroes,owners} from "./data/heroes";
+import {heroes,owners} from "../data/heroes";
 
 //impresion
 console.log(heroes);
